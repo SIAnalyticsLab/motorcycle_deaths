@@ -1,7 +1,7 @@
 ---
 title: "Example Report on Motorcycle Accident Deaths in Colombia"
 subtitle: "Data Wrangling Wrap Up"
-author: "SI Analytics Team"
+author: "SI Analytics Tutor"
 format:
   html:
     embeded-resources: true
